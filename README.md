@@ -1,5 +1,5 @@
 # Building the client
-The only prerequiste software is a [JDK](https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html). The client is only compatible with Java 8 and later.
+The only prerequisite software is a [JDK](https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html). The client is only compatible with Java 8 and later.
 
 Ensure `JAVA_HOME` is set correctly.
 
